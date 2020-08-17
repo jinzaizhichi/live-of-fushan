@@ -1,0 +1,38 @@
+<view>
+    {{msg}}
+</view>
+<view>
+    {{Num}}   
+</view>
+<view>
+    {{isgirl}}
+</view>
+<view>
+    {{person.age}}
+    
+    
+    
+</view>
+<view>
+    {{person.height}}
+</view>
+<view>
+    {{person.weight}}
+</view>
+<view>
+    {{person.name}}
+</view>
+  <view data-Num="{{Num}}">
+      自定义属性
+  </view>
+<view > 
+    
+<checkbox  checked="{{isgirl}}" >
+    
+</checkbox>
+  
+
+</view>
+  
+  
+    
