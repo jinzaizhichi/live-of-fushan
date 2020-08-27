@@ -1,0 +1,5 @@
+<input type="text" bindinput="handleInput"/>
+<view>
+    {{num}}
+</view>
+  
