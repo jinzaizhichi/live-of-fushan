@@ -6,7 +6,7 @@ Page({
   },
   handleInput(e) {
     
-    this.setDate({
+    this.setData({
       num: e.detail.value
     })
   }
