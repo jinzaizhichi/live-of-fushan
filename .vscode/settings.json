@@ -2,5 +2,7 @@
     "emmet.includeLanguages": {
         "editor.formatOnType": "true",
         "editor.formatOnSave": "true"
-    }
+    },
+    "editor.fontFamily": "Hack, 'Courier New', monospace",
+   
 }
