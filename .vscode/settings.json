@@ -4,5 +4,9 @@
         "editor.formatOnSave": "true"
     },
     "editor.fontFamily": "Hack, 'Courier New', monospace",
+    "tabnine.disable_file_regex": [
+    
+    ],
+    
    
 }

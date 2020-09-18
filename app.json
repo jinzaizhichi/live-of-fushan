@@ -1,22 +1,23 @@
 {
-  "pages":[
-    "pages/index/index",
-    "pages/demo20/demo20",
-    "pages/demo19/demo19",
-    "pages/demo05/demo05",
-    "pages/demo04/demo04",
-    "pages/demo03/demo03",
-    "pages/demo01/demo01",
-  
-    "pages/logs/logs"
-  ],
-  "window":{
-    "backgroundTextStyle":"dark",
-    "navigationBarBackgroundColor": "#0094ff",
-    "navigationBarTitleText": "生活在浮山",
-    "navigationBarTextStyle":"black",
-    "enablePullDownRefresh": true
-  },
-  "style": "v2",
-  "sitemapLocation": "sitemap.json"
+    "pages": [
+        "pages/demo21/demo21",
+        "pages/demo20/demo20",
+        "pages/demo19/demo19",
+        "pages/demo05/demo05",
+        "pages/demo04/demo04",
+        "pages/demo03/demo03",
+        "pages/demo01/demo01",
+        "pages/index/index",
+        "pages/logs/logs"
+
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#0094ff",
+        "navigationBarTitleText": "生活在浮山",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
 }
